@@ -1,0 +1,3 @@
+Espace = Saut simple (éviter les petites flaques de boue, les saucisses basses)
+Double espace = Saut haut (Eviter les grosses flaques, les saucisses hautes)
+E = Jetez de la boue (détruit les drapeau EU)
